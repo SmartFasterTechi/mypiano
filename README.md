@@ -1,2 +1,3 @@
 # mypiano
-This is an open source community website designed for Playable Musical Instrument Piano App using Reactjs ,Nodejs , MongoDb , ExpressJsand HTML, CSS, Javascript and Bootstrap
+##Playable Musical Instrument Project
+### Virtual Musical Instrument Piano App using Reactjs ,Nodejs , MongoDb , ExpressJsand HTML, CSS, Javascript and Bootstrap
